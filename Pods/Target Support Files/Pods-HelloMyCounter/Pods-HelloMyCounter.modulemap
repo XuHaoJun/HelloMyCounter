@@ -1,0 +1,6 @@
+framework module Pods_HelloMyCounter {
+  umbrella header "Pods-HelloMyCounter-umbrella.h"
+
+  export *
+  module * { export * }
+}
